@@ -1,0 +1,27 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=MuseoModerno:wght@100;300;900&family=Roboto:wght@100;300;900&display=swap');
+
+body {
+  background-image: url("/assets/img/background/bg_square_blue.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  color: white;
+
+  width: 100vw;
+  height: 100vh;
+
+  font-family: 'Roboto', sans-serif;
+}
+
+.bg-sisdoc
+{
+  background-color: rgb(4, 4, 108);
+}
+
+.navbar-brand
+  {
+    color: rgb(76, 76, 251);
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 1.8rem;
+  }
